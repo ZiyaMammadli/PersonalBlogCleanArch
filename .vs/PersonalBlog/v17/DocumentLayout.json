@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PersonalBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|solutionrelative:src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|solutionrelative:src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\core\\personelblog.application\\automapper\\blogprofile\\bloggetallmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|solutionrelative:src\\core\\personelblog.application\\automapper\\blogprofile\\bloggetallmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60967EB7-40EC-41BB-8A60-82FEBF496B7F}|src\\Core\\PersonelBlog.Application\\PersonelBlog.Application.csproj|solutionrelative:src\\core\\personelblog.application\\features\\commands\\blogcommands\\blogcreateresponse\\blogcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657312E3-8A43-439E-8C2B-A43DF6F5B2A8}|src\\Presentation\\PersonelBlog.API\\PersonelBlog.API.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\presentation\\personelblog.api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657312E3-8A43-439E-8C2B-A43DF6F5B2A8}|src\\Presentation\\PersonelBlog.API\\PersonelBlog.API.csproj|solutionrelative:src\\presentation\\personelblog.api\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE567F4-DBCE-423A-9A0D-9F5CFDC89E2B}|src\\Core\\PersonelBlog.Domain\\PersonelBlog.Domain.csproj|c:\\users\\user\\source\\repos\\personalblog\\src\\core\\personelblog.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE567F4-DBCE-423A-9A0D-9F5CFDC89E2B}|src\\Core\\PersonelBlog.Domain\\PersonelBlog.Domain.csproj|solutionrelative:src\\core\\personelblog.domain\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateHandler.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateHandler.cs",
+              "RelativeToolTip": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:59:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateRequest.cs",
+              "RelativeDocumentMoniker": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateRequest.cs",
+              "RelativeToolTip": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:58:33.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogCreateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateResponse.cs",
+              "RelativeDocumentMoniker": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateResponse.cs",
+              "RelativeToolTip": "src\\Core\\PersonelBlog.Application\\Features\\Commands\\BlogCommands\\BlogCreateResponse\\BlogCreateResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:51:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Domain\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "src\\Core\\PersonelBlog.Domain\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Domain\\Entities\\Blog.cs",
+              "RelativeToolTip": "src\\Core\\PersonelBlog.Domain\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:15:09.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogGetAllMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\AutoMapper\\BlogProfile\\BlogGetAllMapProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\PersonelBlog.Application\\AutoMapper\\BlogProfile\\BlogGetAllMapProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Core\\PersonelBlog.Application\\AutoMapper\\BlogProfile\\BlogGetAllMapProfile.cs",
+              "RelativeToolTip": "src\\Core\\PersonelBlog.Application\\AutoMapper\\BlogProfile\\BlogGetAllMapProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:27:58.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Presentation\\PersonelBlog.API\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\PersonelBlog.API\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PersonalBlog\\src\\Presentation\\PersonelBlog.API\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "src\\Presentation\\PersonelBlog.API\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:29:12.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

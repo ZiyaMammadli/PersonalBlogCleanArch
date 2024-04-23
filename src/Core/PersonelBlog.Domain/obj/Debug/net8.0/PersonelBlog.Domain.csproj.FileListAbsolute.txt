@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\bin\Debug\net8.0\PersonelBlog.Domain.deps.json
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\bin\Debug\net8.0\PersonelBlog.Domain.dll
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\bin\Debug\net8.0\PersonelBlog.Domain.pdb
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.dll
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\refint\PersonelBlog.Domain.dll
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\PersonelBlog.Domain.pdb
+C:\Users\user\source\repos\PersonalBlog\src\Core\PersonelBlog.Domain\obj\Debug\net8.0\ref\PersonelBlog.Domain.dll

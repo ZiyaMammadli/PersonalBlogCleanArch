@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "PersonelBlog.API.Controllers.BlogsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Blogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PersonelBlog.API.Controllers.BlogsController",
+    "Method": "GetById",
+    "RelativePath": "api/Blogs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PersonelBlog.API.Controllers.BlogsController",
+    "Method": "Create",
+    "RelativePath": "api/Blogs/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "blogCreateRequest",
+        "Type": "PersonelBlog.Application.Features.Commands.BlogCommands.BlogCreateResponse.BlogCreateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
